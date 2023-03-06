@@ -1,0 +1,14 @@
+D:\! Dev !\Loader\bin\Debug\Loader.exe.config
+D:\! Dev !\Loader\bin\Debug\Loader.exe
+D:\! Dev !\Loader\bin\Debug\Loader.pdb
+D:\! Dev !\Loader\bin\Debug\Siticone.Desktop.UI.dll
+D:\! Dev !\Loader\obj\Debug\Loader.csproj.AssemblyReference.cache
+D:\! Dev !\Loader\obj\Debug\Loader.csproj.SuggestedBindingRedirects.cache
+D:\! Dev !\Loader\obj\Debug\Loader.Loader.resources
+D:\! Dev !\Loader\obj\Debug\Loader.Properties.Resources.resources
+D:\! Dev !\Loader\obj\Debug\Loader.csproj.GenerateResource.cache
+D:\! Dev !\Loader\obj\Debug\Loader.csproj.CoreCompileInputs.cache
+D:\! Dev !\Loader\obj\Debug\Loader.csproj.CopyComplete
+D:\! Dev !\Loader\obj\Debug\Loader.exe
+D:\! Dev !\Loader\obj\Debug\Loader.pdb
+D:\! Dev !\Loader\obj\Debug\Loader.Main.resources
