@@ -35,9 +35,8 @@ namespace Loader
             KeyAuthApp.license(KeyBox.Text);
             if (KeyAuthApp.response.success)
             {
-                Main main = new Main();
-                main.Show();
-                this.Hide();
+                // if you want add form
+                Environment.Exit(0);
             }
             else
                 MessageBox.Show("Invalid Keys");
